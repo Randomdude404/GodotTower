@@ -53,7 +53,7 @@ window/stretch/aspect="keep"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/BitmapTextureFont/plugin.cfg", "res://addons/quentincaffeino/console/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/quentincaffeino/console/plugin.cfg" )
 
 [gui]
 
